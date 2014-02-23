@@ -5,7 +5,7 @@ module.exports = {
   sessionSecret: "Your Session Secret goes here",
 
   mailgun: {
-    login: 'Your Mailgun SMTP Username',
+    login: 'Your Mailgun SMTP Username xxxxx',
     password: 'Your Mailgun SMTP Password'
   },
 
